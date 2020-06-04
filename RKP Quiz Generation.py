@@ -25,7 +25,7 @@ import datetime
 
 
 # This dictionary contains all 50 states in the USA with their respective capitals.  The state names are stored as
-# "keys" and the capitals are stored as "values".
+# "keys" and the capital names are stored as "values".
 answer_key = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix','Arkansas': 'Little Rock',
              'California': 'Sacramento', 'Colorado': 'Denver','Connecticut': 'Hartford', 'Delaware': 'Dover',
              'Florida': 'Tallahassee','Georgia': 'Atlanta', 'Hawaii': 'Honolulu', 'Idaho': 'Boise',
