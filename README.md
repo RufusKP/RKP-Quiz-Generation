@@ -7,4 +7,6 @@ If you copied the code, you will have to paste it into a Python editor or IDE an
 
 Hope you enjoy this program!
 
+Stay safe!
+
 -RKP
